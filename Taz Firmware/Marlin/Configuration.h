@@ -184,9 +184,9 @@
 
 // If you are using a preconfigured hotend then you can use one of the value sets by uncommenting it
 // Buda 2.0 on 24V
-    #define  DEFAULT_Kp 37.50
-    #define  DEFAULT_Ki 3.06
-    #define  DEFAULT_Kd 114.91
+    #define  DEFAULT_Kp 40.53
+    #define  DEFAULT_Ki 3.24
+    #define  DEFAULT_Kd 126.85
 
 // Buda 2.0 on 12V
 //    #define  DEFAULT_Kp 22.2
